@@ -1,4 +1,4 @@
-package za.co.reverside.ecommerce.model;
+package za.co.reverside.ecommerce.usermanagement.model;
 
 public class User {
     private String username;
